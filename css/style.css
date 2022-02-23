@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+}
+/* top-section */
+.top-part{
+    display: flex;
+    margin: 0 159px;
+}
+
+.half-width{
+    width: 50%;
+}
+#half-width{
+    margin-top: 113px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 68%;
+    margin-left: 80px;
+}
+.top-part-title{
+    font-family: 'Redressed', cursive;
+    border-left: 3px solid #00CA99;
+    font-size: 50px;
+}
+.top-part-title h1{
+    margin: 0px 17px;
+    color: #333333;
+}
+.top-part-title span{
+    color: #0FC7C9;
+}
+.half-width p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-bottom: 34px;
+    color: #444444;
+}
+.half-width a{
+    text-decoration: none;
+    background-color: #00CA99;
+    color: white;
+    padding: 13px 40px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+.half-width .scroll-text{
+    display: block;
+    margin-top: 57px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* mission-section */
+.mission{
+    font-family: 'Poppins', sans-serif;
+}
+.mission-header{
+    font-size: 50px;
+    text-align: center;
+    color: #13103A;
+}
+.mission-header span{
+    color: #00CA99;
+}
+.boxes{
+    margin: 0 159px;
+    display: flex;
+}
+
+.boxes .box{
+    background-color: #EDF5F6;
+    width: 33.33%;
+    padding: 25px;
+    border-radius: 20px;
+}
+#box-2{
+    margin: 0 20px;
+}
+.boxes .box img{
+    width: 140px;
+}
+
+/* documentation */
+.doc{
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.doc-left{
+    width: 40%;
+}
+.doc-right{
+    width: 60%;
+    margin-left: 50px;
+}
+
+.doc-right h1{
+    font-size: 40px;
+}
+.doc-right p{
+    margin-bottom: 30px;
+}
+.doc-right a{
+    text-decoration: none;
+    background-color: #00CA99;
+    color: white;
+    padding: 13px 40px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+#doc-right{
+    margin: 0;
+}
+.doc-content{
+    margin: 0 159px;
+    display: flex;
+}
+#doc-img{
+    margin-left: 0px;
+    width: 100%;
+}
+.doc{
+    background-image: url(../images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: right;
+}
+
+/* cv-download */
+.cv-download{
+    background-image: url(../images/big-portfolio-02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    height: 500px;
+    margin-top: 50px;
+}
+.cv-download h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0 ;
+}
+.btn{
+    text-align: center;
+}
+.btn a{
+    
+    text-decoration: none;
+    color: white;
+    background-color: #00CA99;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+.cv-content{
+    padding-top: 130px;
+}
+.cv-content p{
+    text-align: center;
+    color: white;
+    padding-bottom: 20px; 
+}
+/* footer-section */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px
+}
+footer h1{
+    font-family: 'Redressed', cursive;
+}
+footer p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
